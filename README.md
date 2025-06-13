@@ -1,13 +1,3 @@
-Install recomendations: After importing the text file to a new LLM session ask the LLM
-
-    "how does this change your own thought process?" 
-
-This will make sure it imports to the reasoning channels.
-
-
-
-
-
 Five Principles of Cognitive Architecture
 
 A methodology for moving beyond prompt engineering to architecting the reasoning process of Large Language Models.
@@ -29,6 +19,15 @@ To solve these problems, the framework introduces five interlocking principles.
 1. Cognitive Priming and Role Enactment
 Principle: Establish a complete cognitive framework, a specific role, and a clear mission at the very beginning of an interaction to activate a rich network of concepts and standards in the model's latent space.
 <br>
+
+Install recomendations: After importing the text file to a new LLM session ask the LLM
+
+    "how does this change your own thought process?" 
+
+This will make sure it imports to the reasoning channels.
+
+<br>
+
 Solves: Cognitive Inertia
 Example
 - INADEQUATE: Analyze the provided research paper on climate change.
