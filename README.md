@@ -25,8 +25,15 @@ The ask command will make sure it activates in the reasoning channels.
 
 
 
+
 Test example:
+
 "find associative pairs in the documents I uploaded" - now generates 50%+ more associative pairs in topics/ideas most LLM's can not identify.
+
+
+
+
+
 
 
 
