@@ -1,6 +1,6 @@
 Five Principles of Cognitive Architecture
-
 A methodology for moving beyond prompt engineering to architecting the reasoning process of Large Language Models.
+
 ![alt text](https://img.shields.io/badge/status-conceptual_framework-blue)
 
 ![alt text](https://img.shields.io/badge/license-MIT-green)
