@@ -10,11 +10,18 @@ Beware, some pure coding models become very chatty wanting clarification to your
 
 
 
+
 Test it yourself in 60 seconds:
+
 Create a new chat session.
+
 Paste the cognitive primer text as the first message input.
+
 Ask it: "how does this change your own thought process?"
+
 The ask command will make sure it activates in the reasoning channels.
+
+
 
 
 
