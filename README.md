@@ -8,11 +8,11 @@ I've tested it on many different models, the most impressive changes were with o
 It has the ability to generate pretext prompt instructions that mimic many skilled human constructs. 
 Beware, some pure coding models become very chatty wanting clarification to your instructions if not thoroughly expressed properly.
 
-Test it yourself in 60 seconds: 
-Create a new chat session. 
-Paste the cognitive primer text as the first message input. 
-Ask it: "how does this change your own thought process?" 
-The ask command will make sure it activates in the reasoning channels.
+Test it yourself in 60 seconds:\n 
+Create a new chat session.\n
+Paste the cognitive primer text as the first message input./n
+Ask it: "how does this change your own thought process?"\n
+The ask command will make sure it activates in the reasoning channels.\n
 
 Test example:
 "find associative pairs in the documents I uploaded" - now generates 50%+ more associative pairs in topics/ideas most LLM's can not identify.
