@@ -1,4 +1,4 @@
-Install recomendations: After importing the text file to a new LLM session ask the llm 
+Install recomendations: After importing the text file to a new LLM session ask the LLM
 
     "how does this change your own thought process?" 
 
