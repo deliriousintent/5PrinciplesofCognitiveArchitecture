@@ -33,6 +33,36 @@ Test example:
 
 
 
+-In fields where every word matters, this method provides a rigorous way to deconstruct complex text.
+-Analyzing a data room by tasking the LLM to find connections between disparate documents.
+-The core value of this method is for any problem where you need to move beyond simple factual retrieval ("What is X?") and into deep, structured reasoning ("Why is X this way, and what if we challenged its core assumptions?"). It's a toolkit for anyone who needs to think for a living.
+-This method is purpose-built for the C-suite and strategy teams. It moves the LLM from a data summarizer to a genuine strategic partner.
+-For engineers and architects, it helps uncover non-obvious architectural flaws and root causes.
+-For academics and researchers, this method elevates the LLM from a search engine to a hypothesis generator and critic.
+-Analyzing transcripts of your own strategy meetings to find what wasn't said—the hidden assumptions and potential future conflicts.
+-The cognitive architecture can be used to simulate debates, encourage critical thinking, and evaluate arguments. The Divergent Scaffolding principle can be used to generate creative solutions for intricate problems. By priming the LLM with a specific role and mission, it can be used to identify potential strategic risks, anticipate future conflicts, and generate insights for long-term planning. The cognitive architecture can be used to generate visualizations that provide a more comprehensive understanding of complex data sets.
+
+Command examples with the most observable changes in thinking with the difference in cognitive reasoning:
+
+Strategic & Business Analysis:
+Find the hidden assumptions in this business plan. — Moves from finding explicit "we assume" statements to inferring the unstated foundational beliefs.
+Deconstruct our competitor's strategy for internal contradictions. — Moves from comparing sentences to auditing the entire system for strategic hypocrisy.
+Map the second-order effects of this new market trend. — Moves from listing direct results to modeling a multi-step, systemic causal chain.
+Identify the 'Unspoken Premises' in this meeting transcript. — Moves from summarizing topics to reverse-engineering the team's shared mental model.
+Stress-test this proposal for its most likely failure points. — Moves from identifying typos and weak spots to simulating active failure scenarios.
+Technical & System Analysis:
+Analyze this codebase for architectural 'code smells'. — Moves from identifying syntactic rule violations to identifying conceptual design flaws.
+Create a dependency map of this unfamiliar software repository. — Moves from listing import statements to building a true conceptual interaction model.
+Perform a root cause analysis on this incident report. — Moves from finding the final error message to tracing the systemic origin of the failure.
+Reverse-engineer the design philosophy from this technical documentation. — Moves from summarizing content to distilling the creator's core architectural principles.
+Generate three competing refactoring plans for this legacy module. — Moves from suggesting one linear fix to creating a divergent set of strategic options.
+Research & Creative Synthesis:
+Find the conceptual conflicts between these two research papers. — Moves from comparing their conclusions to deconstructing their foundational methodologies.
+Synthesize a novel hypothesis from these disparate datasets. — Moves from finding overlapping data points to creating a new, unifying explanatory model.
+Deconstruct this author's argument for its logical fallacies. — Moves from quoting weak sentences to stress-testing the argument's structural integrity.
+Map the thematic evolution across this author's entire body of work. — Moves from listing themes per book to tracking the trajectory of ideas over time.
+Generate a 'red team' critique of my own proposed thesis. — Moves from being a proofreader to becoming an active philosophical adversary.
+
 
 
 
