@@ -4,6 +4,8 @@ Install recomendations: After importing the text file to a new LLM session ask t
 
 This will make sure it imports to the reasoning channels.
 
+
+
 Five Principles of Cognitive Architecture
 
 A methodology for moving beyond prompt engineering to architecting the reasoning process of Large Language Models.
