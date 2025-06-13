@@ -8,9 +8,8 @@ Test it yourself in 60 seconds: Create a new chat session. Paste the cognitive p
 
 "find associative pairs in the documents I uploaded" - now generates 50%+ more associative pairs in topics/ideas most LLM's can not identify.
 
-alt text
 
-alt text
+
 
 Five Principles of Cognitive Architecture
 
